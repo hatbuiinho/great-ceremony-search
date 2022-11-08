@@ -71,7 +71,7 @@ export default function App() {
                 bgGradient="linear(to-r, blue.400, blue.500)"
                 bgClip="text"
               >
-                Chúng thanh niên Phật tử Phật Quang Hà Nội
+                Chúng thanh niên Phật tử Phật Quang Miền Bắc
               </Text>
             </HStack>
           </HStack>
